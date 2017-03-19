@@ -12,7 +12,7 @@ PM> Install-Package TibiaSolutions.SharpParser
 ## Basic Usage
 
 ### Player
-```cshap
+```csharp
 var player = new Player("Kharsek");
 if (player.Data["exists"])
 {
