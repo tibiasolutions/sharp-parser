@@ -1,0 +1,28 @@
+﻿{
+  "authors": [ "Bruno Minervino" ],
+  "description": "Tibia.com parser informations",
+  "frameworks": {
+    "net45": {
+      "dependencies": {
+        "HtmlAgilityPack": "1.4.9.5"
+      }
+    },
+    "net451": {
+      "dependencies": {
+        "HtmlAgilityPack": "1.4.9.5"
+      }
+    },
+    "net40": {
+      "dependencies": {
+        "HtmlAgilityPack": "1.4.9.5"
+      }
+    }
+  },
+  "licenseUrl": "",
+  "projectUrl": "https://github.com/tibiasolutions/sharp-parser",
+  "runtimes": {
+    "win": {}
+  },
+  "tags": [ "" ],
+  "version": "1.0.0.0"
+}
